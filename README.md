@@ -7,6 +7,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0001-two-sum/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0136-single-number](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0136-single-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -15,4 +16,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0001-two-sum/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
