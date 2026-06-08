@@ -1,15 +1,16 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-       // find the element that appears only once, every other element appears twice.
-       unordered_set<int> seen;
-       for (int n: nums){ 
-        if(seen.count(n)){
-         seen.erase(n);}
+        unordered_set<int> seen;
 
-        else{
-         seen.insert(n);}
-       }
-       return *seen.begin();
+        for(int i=0; i<nums.size(); i++){
+            if(!seen.count(nums[i])){
+                seen.insert(nums[i]);
+            }
+            else{
+                seen.erase(nums[i]);
+            }
+        }
+        return *seen.begin();
     }
 };
