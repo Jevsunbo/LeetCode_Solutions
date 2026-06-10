@@ -5,9 +5,8 @@ public:
 
         for(int fast = 0; fast<nums.size(); fast++){
             if(nums[fast] != 0){
-            int temp = nums[slow];
             nums[slow] = nums[fast];
-            nums[fast] = temp;
+            if(slow != fast){nums[fast] = 0;}
             slow++;}
         }
     };
