@@ -1,21 +1,26 @@
 class Solution {
 public:
     vector<int> sortedSquares(vector<int>& nums) {
-        vector<int> squares(nums.size(), 0);
-        // square the original array and create a new, squared array
-        for(int i =0; i<nums.size(); i++){
-            squares[i] = pow(nums[i], 2);
-        }
-        // sort the new array
-        for(int i = 0; i<nums.size()-1; i++){
-            for(int j = i+1; j<nums.size(); j++){
-                int temp = 0;
-                if(squares[i]>squares[j]){
-                    temp = squares[j];
-                    squares[j] = squares[i];
-                    squares[i]=temp;}
+        int left = 0;
+        int right = (int)(nums.size()-1);
+        int pos = (int)(nums.size()-1);
+
+        vector<int> result(nums.size(), 0);
+
+        while(left <= right){
+            int leftsq = nums[left] * nums[left];
+            int rightsq = nums[right] * nums[right];
+
+            if(leftsq>rightsq){
+                result[pos] = leftsq;
+                left++;
             }
+            else{
+                result[pos] = rightsq;
+                right--;
+            }
+            pos--;
         }
-        return squares;
+        return result;
     }
 };
