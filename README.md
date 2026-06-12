@@ -11,6 +11,7 @@
 | [0136-single-number](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0136-single-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0724-find-pivot-index](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0724-find-pivot-index/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,8 +33,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0283-move-zeroes](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0053-maximum-subarray/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
