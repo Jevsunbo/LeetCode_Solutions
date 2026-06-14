@@ -12,6 +12,7 @@
 | [0283-move-zeroes](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0724-find-pivot-index](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,6 +30,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0724-find-pivot-index/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
