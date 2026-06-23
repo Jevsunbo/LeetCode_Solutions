@@ -6,6 +6,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0001-two-sum/) | Easy |
+| [0049-group-anagrams](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -24,6 +25,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0001-two-sum/) | Easy |
+| [0049-group-anagrams](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0169-majority-element/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -48,6 +50,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0169-majority-element/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -55,4 +58,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0169-majority-element/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0049-group-anagrams](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 <!---LeetCode Topics End-->
