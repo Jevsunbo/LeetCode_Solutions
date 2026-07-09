@@ -28,6 +28,7 @@
 | [0049-group-anagrams](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0205-isomorphic-strings/) | Easy |
+| [0242-valid-anagram](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0383-ransom-note/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -55,6 +56,7 @@
 | [0049-group-anagrams](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0169-majority-element/) | Easy |
+| [0242-valid-anagram](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -66,6 +68,7 @@
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0205-isomorphic-strings/) | Easy |
+| [0242-valid-anagram](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0383-ransom-note/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
