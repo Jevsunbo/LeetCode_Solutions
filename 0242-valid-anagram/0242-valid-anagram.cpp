@@ -8,7 +8,7 @@ public:
         for(char c: s){
             freq[c]++;}
         for(char c: t){
-            if(freq[c] <= 0){
+            if(freq[c] == 0){
                 return false;}
             freq[c]--;}
 
