@@ -25,6 +25,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0001-two-sum/) | Easy |
+| [0013-roman-to-integer](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0205-isomorphic-strings/) | Easy |
@@ -66,6 +67,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0242-valid-anagram/) | Easy |
@@ -80,4 +82,8 @@
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0206-reverse-linked-list/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0013-roman-to-integer/) | Easy |
 <!---LeetCode Topics End-->
