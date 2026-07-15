@@ -12,6 +12,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0724-find-pivot-index](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -29,6 +30,7 @@
 | [0049-group-anagrams](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0205-isomorphic-strings/) | Easy |
+| [0217-contains-duplicate](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0383-ransom-note/) | Easy |
 ## Bit Manipulation
@@ -57,6 +59,7 @@
 | [0049-group-anagrams](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Counting
