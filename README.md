@@ -14,6 +14,7 @@
 | [0169-majority-element](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0724-find-pivot-index](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -32,6 +33,7 @@
 | [0205-isomorphic-strings](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0383-ransom-note/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -53,6 +55,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,11 +64,13 @@
 | [0169-majority-element](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0383-ransom-note/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -89,4 +94,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0013-roman-to-integer/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Jevsunbo/LeetCode_Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
